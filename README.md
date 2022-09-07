@@ -1,2 +1,2 @@
 # react-practice
-Practicing ReactJS
+Simply practicing ReactJS
